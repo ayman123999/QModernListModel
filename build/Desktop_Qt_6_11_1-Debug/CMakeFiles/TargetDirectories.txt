@@ -1,0 +1,9 @@
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/QModernListModel.dir
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/edit_cache.dir
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/list_install_components.dir
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/install.dir
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/install/local.dir
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/install/strip.dir
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/QModernListModel_autogen_timestamp_deps.dir
+/home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/CMakeFiles/QModernListModel_autogen.dir

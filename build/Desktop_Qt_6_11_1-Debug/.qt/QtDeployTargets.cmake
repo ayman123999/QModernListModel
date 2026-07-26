@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QModernListModel_FILE /home/mrsrobot/qt_project/QModernListModel/build/Desktop_Qt_6_11_1-Debug/QModernListModel)
+set(__QT_DEPLOY_TARGET_QModernListModel_TYPE EXECUTABLE)

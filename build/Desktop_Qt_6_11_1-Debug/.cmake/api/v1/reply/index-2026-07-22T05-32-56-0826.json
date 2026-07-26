@@ -1,0 +1,89 @@
+{
+	"cmake" : 
+	{
+		"generator" : 
+		{
+			"multiConfig" : false,
+			"name" : "Ninja"
+		},
+		"paths" : 
+		{
+			"cmake" : "/home/mrsrobot/Qt/Tools/CMake/bin/cmake",
+			"cpack" : "/home/mrsrobot/Qt/Tools/CMake/bin/cpack",
+			"ctest" : "/home/mrsrobot/Qt/Tools/CMake/bin/ctest",
+			"root" : "/home/mrsrobot/Qt/Tools/CMake/share/cmake-3.30"
+		},
+		"version" : 
+		{
+			"isDirty" : false,
+			"major" : 3,
+			"minor" : 30,
+			"patch" : 5,
+			"string" : "3.30.5",
+			"suffix" : ""
+		}
+	},
+	"objects" : 
+	[
+		{
+			"jsonFile" : "codemodel-v2-c61eb8a892304f0759f4.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 7
+			}
+		},
+		{
+			"jsonFile" : "cache-v2-c9a85a698995b67821b4.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		{
+			"jsonFile" : "cmakeFiles-v1-52b51f80e6ae434672a8.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 1
+			}
+		}
+	],
+	"reply" : 
+	{
+		"cache-v2" : 
+		{
+			"jsonFile" : "cache-v2-c9a85a698995b67821b4.json",
+			"kind" : "cache",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 0
+			}
+		},
+		"cmakeFiles-v1" : 
+		{
+			"jsonFile" : "cmakeFiles-v1-52b51f80e6ae434672a8.json",
+			"kind" : "cmakeFiles",
+			"version" : 
+			{
+				"major" : 1,
+				"minor" : 1
+			}
+		},
+		"codemodel-v2" : 
+		{
+			"jsonFile" : "codemodel-v2-c61eb8a892304f0759f4.json",
+			"kind" : "codemodel",
+			"version" : 
+			{
+				"major" : 2,
+				"minor" : 7
+			}
+		}
+	}
+}
